@@ -6,8 +6,6 @@ Este projeto explora a capacidade das IAs generativas em criar conteúdos que po
 ## 🤖 Tecnologias Utilizadas
 - **Leonardo.AI:** Para a geração de imagens.
 - **GPT-4:** Para a criação de textos e descrições.
-- **DeepArt.io:** Para a aplicação de estilos artísticos.
-- **RunwayML:** Para a edição e manipulação avançada de imagens.
 
 ## 🧐 Processo de Criação
 1. **Definição do Tema:** Escolha do tema "Natural ou Fake Natty" e o objetivo de identificar a diferença entre criação humana e gerada por IA.
