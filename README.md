@@ -1,52 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+**# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas**
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+**# Título do Projeto Extremamente Aesthetic ;)**
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora a capacidade das IAs generativas em criar conteúdos que podem ser confundidos com o trabalho humano. O foco é em como distinguir entre o que é natural (feito por humanos) e o que é artificial (gerado por IA), e como vencer essa diferença na era digital atual.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Leonardo.AI:** Para a geração de imagens.
+- **GPT-4:** Para a criação de textos e descrições.
+- **DeepArt.io:** Para a aplicação de estilos artísticos.
+- **RunwayML:** Para a edição e manipulação avançada de imagens.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Definição do Tema:** Escolha do tema "Natural ou Fake Natty" e o objetivo de identificar a diferença entre criação humana e gerada por IA.
+2. **Geração de Conteúdo:** Utilização de Leonardo.AI para criar imagens com base no tema definido. Uso do GPT-4 para escrever descrições detalhadas.
+3. **Edição e Refinamento:** Aplicação de técnicas de edição em RunwayML para ajustar as imagens e textos, garantindo que o conteúdo gerado atenda aos padrões estéticos desejados.
+4. **Validação:** Comparação do conteúdo gerado com o trabalho humano real para avaliar a eficácia das IAs na criação de algo que possa ser confundido com o trabalho autêntico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **Imagens Geradas:** Criação de uma série de imagens que imitam estilos artísticos específicos, com um nível de detalhe que desafia a percepção de autenticidade.
+- **Textos Criados:** Descrições e contextos escritos que acompanham as imagens, simulando um conteúdo original.
+- **Feedback Recebido:** Avaliação do público sobre a dificuldade de distinguir entre o conteúdo gerado por IA e o conteúdo criado por humanos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
-
+## 💭 Reflexão
+Criar algo que seja indistinguível do trabalho humano com IA apresenta um desafio significativo. A dificuldade está em capturar nuances sutis e a autenticidade emocional que muitas vezes é associada ao trabalho humano. A tecnologia avança rapidamente, e é crucial estar ciente das implicações éticas e criativas ao utilizar ferramentas de IA para criar conteúdo que possa enganar ou confundir o público.
