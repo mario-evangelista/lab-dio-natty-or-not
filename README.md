@@ -1,7 +1,5 @@
 **# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas**
 
-**# Título do Projeto Extremamente Aesthetic ;)**
-
 ## 📒 Descrição
 Este projeto explora a capacidade das IAs generativas em criar conteúdos que podem ser confundidos com o trabalho humano. O foco é em como distinguir entre o que é natural (feito por humanos) e o que é artificial (gerado por IA), e como vencer essa diferença na era digital atual.
 
