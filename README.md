@@ -19,7 +19,7 @@ Este projeto explora a capacidade das IAs generativas em criar conteúdos que po
 - **Feedback Recebido:** Avaliação do público sobre a dificuldade de distinguir entre o conteúdo gerado por IA e o conteúdo criado por humanos.
 
 <div align="center">
-<img src="https://github.com/mario-evangelista/modelo-previsao-regressao-linear/assets/121322767/4d7213aa-6bac-42b1-b200-fc6206f30b5d" width="700px" />
+<img src="https://github.com/user-attachments/assets/e2fee396-326b-45d6-b7f6-49fbfafae42c" width="700px" />
 </div>
 
 <div align="center">
