@@ -18,5 +18,13 @@ Este projeto explora a capacidade das IAs generativas em criar conteúdos que po
 - **Textos Criados:** Descrições e contextos escritos que acompanham as imagens, simulando um conteúdo original.
 - **Feedback Recebido:** Avaliação do público sobre a dificuldade de distinguir entre o conteúdo gerado por IA e o conteúdo criado por humanos.
 
+<div align="center">
+<img src="https://github.com/mario-evangelista/modelo-previsao-regressao-linear/assets/121322767/4d7213aa-6bac-42b1-b200-fc6206f30b5d" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/54e2fd59-9918-4af2-9922-c904c2c668ab" width="700px" />
+</div>
+
 ## 💭 Reflexão
 Criar algo que seja indistinguível do trabalho humano com IA apresenta um desafio significativo. A dificuldade está em capturar nuances sutis e a autenticidade emocional que muitas vezes é associada ao trabalho humano. A tecnologia avança rapidamente, e é crucial estar ciente das implicações éticas e criativas ao utilizar ferramentas de IA para criar conteúdo que possa enganar ou confundir o público.
