@@ -17,12 +17,14 @@ Este projeto explora a capacidade das IAs generativas em criar conteúdos que po
 - **Imagens Geradas:** Criação de uma série de imagens que imitam estilos artísticos específicos, com um nível de detalhe que desafia a percepção de autenticidade.
 - **Textos Criados:** Descrições e contextos escritos que acompanham as imagens, simulando um conteúdo original.
 - **Feedback Recebido:** Avaliação do público sobre a dificuldade de distinguir entre o conteúdo gerado por IA e o conteúdo criado por humanos.
-<br>
+
+
 - **PROMPT:** A highly detailed, realistically rendered portrait of a sleek black cat reclining languidly on a rich, dark brown leather armchair, its lustrous fur exhibiting subtle highlights and shadows, with a curious, inquisitive expression on its face, characterized by bright, alert green eyes, a small pink nose, and delicate, pointed ears, set against a warm, earthy-toned background that complements the cat's dark coat, with the armchair's soft, supple leather and ornate wooden legs adding depth and texture to the overall composition.
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e2fee396-326b-45d6-b7f6-49fbfafae42c" width="700px" />
 </div>
-<br>
+
+
 - **PROMPT:** Create a realistic image of a natural landscape at sunset. Include mountains in the background, a river meandering through the middle of the scene, and lush trees on the banks of the river. Sunlight should reflect gently off the water, and the sky should be tinged with shades of orange, pink, and purple. Add some wild animals, like deer and birds, to bring more life to the scene. The image should convey a feeling of tranquility and natural beauty.
 <div align="center">
 <img src="https://github.com/user-attachments/assets/54e2fd59-9918-4af2-9922-c904c2c668ab" width="700px" />
